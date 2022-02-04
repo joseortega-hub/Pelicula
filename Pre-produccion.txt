@@ -1,0 +1,10 @@
+1ºCasting de los actores
+2ºTener todos los permisos necesarios
+3ºDeben aparecer :
+-Artista de storyboard
+-Director y asistete de dirección
+-Productor
+-Coordinador de vestuario
+-Director de reparto
+-Director de fotografia
+-Tecnico de sonido
